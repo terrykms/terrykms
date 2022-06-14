@@ -16,7 +16,7 @@
 
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=terrykms&style=flat&color=blue" alt=""/>
-  <a href="https://terrykms.github.io/" target="_blank">
+  <a href="https://terrykms.github.io/">
     <img src="https://img.shields.io/badge/portfolio-343434?style=flat&logo=github"
   </a>
 </div>
